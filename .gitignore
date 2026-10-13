@@ -1,0 +1,23 @@
+# Environments & Secrets
+.env
+.env.*
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit Local Cache
+.streamlit/
+
+# OS specific
+.DS_Store
+Thumbs.db
